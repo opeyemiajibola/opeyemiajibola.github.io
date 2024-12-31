@@ -1,4 +1,6 @@
 main:
+  - title: "Home"
+    url: https://opeyemiajibola.github.io
   - title: "Blog"
     url: /blog/
   - title: "About"
