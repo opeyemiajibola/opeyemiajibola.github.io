@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Opeyemi Ajibola"
-  avatar : "/assets/images/bio-pic.jpeg"
+  avatar : "/assets/images/bio-pic.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "LinkedIn"
