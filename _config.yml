@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Opeyemi Ajibola"
   avatar : "/assets/images/bio-pic.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "An architect and technology enthusiast driven by a passion for leveraging technologies to sustainably address complex business and societal challenges. My primary expertise lies in cloud computing and networking, with a strong interest in emerging technologies such as data and AI, renewable energy, and quantum computing."
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
