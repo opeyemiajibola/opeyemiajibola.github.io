@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+The Solution Architecture Diary is an endeavour to document my learnings, insights, ideas, and reflections on various technologies and their potential to be integrated into effective solutions that address both business and societal needs.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+The initial focus will be on leveraging cloud computing, networking, and data & AI technologies to solve complex challenges. However, this diary may also delve into other relevant technologies—including legacy, traditional, and emerging—exploring their roles in enabling desired outcomes. Each case will contribute to the broader discourse by examining how these technologies can be applied effectively.
+
+The Solution Architecture Diary is intended to provide valuable insights for a diverse audience, including fellow architects and technology enthusiasts, serving as a resource for both immediate application and future reference.
+
+**Disclaimer:** The views expressed in The Solution Architecture Diary are solely my own. Should you have alternative or differing perspectives, I encourage you to share them to foster meaningful discussions and collaborative learning.
