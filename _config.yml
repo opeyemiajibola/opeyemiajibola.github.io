@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Opeyemi Ajibola"
   avatar : "/assets/images/bio-pic.jpg"
-  bio    : "An architect and technology enthusiast passionate about leveraging technologies to sustainably address complex business and societal challenges. My core expertise lies in cloud computing and networking, complemented by a keen interest in emerging technologies, particularly data and AI."
+  bio    : "An architect, researcher, and technology enthusiast passionate about leveraging digital technologies to sustainably address complex business and societal challenges. My core expertise lies in cloud computing and networking, complemented by a keen interest in emerging digital technologies, particularly data and AI."
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
